@@ -6,5 +6,6 @@
 # After run command composer install and composer require laravel/ui
 # After run npm install and npm run dev command
 # After run composer require laravel/socialite
+# After run php artisan key:generate
 # After run php artisan migrate
 # And finally run php artisan serve command
